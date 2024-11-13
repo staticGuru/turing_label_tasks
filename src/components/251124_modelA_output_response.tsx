@@ -1,5 +1,4 @@
 // import NavigatorCircle from '@/components/NavigatorCircle';
-
 export default function Home() {
 	return (
 		<div className=''>
@@ -17,7 +16,6 @@ export default function Home() {
 					<div className='h-full border-white border-t-2'></div> 
 				</div>
 			</div>
-
 			{/* <NavigatorCircle />
 			<NavigatorCircle />
 			<NavigatorCircle /> */}
